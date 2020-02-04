@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+##
+
 function chat() {
   function echoerr() {
     echo "$@" 1>&2;
